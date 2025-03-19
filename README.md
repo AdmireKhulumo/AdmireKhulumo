@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Admire Khulumo.
-- 👀 I’m interested in backend software engineering, AI, and DevOps.
+- 👀 I’m interested in backend software engineering, softwre architecture, and AI.
 - 🌱 I’m currently learning lots of Kubernetes.
-- 💞️ I’m looking to collaborate on interesting stuff on AI.
+- 💞️ I’m looking to collaborate on interesting stuff with microservices.
 - 📫 Just email.
 
 <!---
